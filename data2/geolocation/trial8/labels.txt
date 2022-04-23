@@ -1,0 +1,54 @@
+Ad 1:
+	Output device
+	Telephone
+	Product
+	Telephony
+	Mobile phone
+	Gesture
+	Gadget
+	Communication Device
+	Portable communications device
+	Mobile device
+Ad 2:
+	Rectangle
+	Font
+	Magenta
+	Circle
+	Parallel
+	Number
+	Pattern
+	Triangle
+	Brand
+	Paper product
+Ad 3:
+	Font
+	Electric blue
+	Electronic device
+	Screenshot
+	Signage
+	Brand
+	Rectangle
+	Banner
+	Advertising
+Ad 4:
+	Rectangle
+	Triangle
+	Office supplies
+	Font
+	Gadget
+	Communication Device
+	Electronic device
+	Office instrument
+	Stationery
+	Electric blue
+Ad 5:
+	Sky
+	Rectangle
+	Font
+	Circle
+	Magenta
+	Art
+	Paper product
+	Number
+	Paper
+	Brand

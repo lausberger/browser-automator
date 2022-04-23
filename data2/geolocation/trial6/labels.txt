@@ -1,0 +1,50 @@
+Ad 1:
+	Font
+	Rectangle
+	Magenta
+	Electric blue
+	Signage
+	Brand
+	Event
+	Advertising
+	Darkness
+	Graphics
+Ad 2:
+	Rectangle
+	Font
+	Sky
+	Circle
+	Magenta
+	Number
+	Paper product
+	Paper
+	Brand
+	Pattern
+Ad 3:
+	Font
+	Electric blue
+	Rectangle
+	Screenshot
+	Signage
+Ad 4:
+	Font
+	Rectangle
+	Grass
+	Electric blue
+	Signage
+	Brand
+	Logo
+	Graphics
+	Banner
+	Advertising
+Ad 5:
+	Product
+	Gadget
+	Font
+	Parallel
+	Screenshot
+	Display device
+	Electric blue
+	Multimedia
+	Circle
+	Air travel

@@ -1,0 +1,44 @@
+Ad 1:
+	Rectangle
+	Office supplies
+	Triangle
+	Gadget
+	Font
+	Stationery
+	Metal
+	Office instrument
+	Paper product
+	Electric blue
+Ad 2:
+	Rectangle
+	Font
+	Magenta
+	Parallel
+	Circle
+	Number
+	Triangle
+	Screenshot
+	Pattern
+	Brand
+Ad 3:
+	Rectangle
+	Sky
+	Font
+	Circle
+	Magenta
+	Number
+	Paper product
+	Paper
+	Brand
+	Pattern
+Ad 4:
+	Font
+	Electric blue
+	Signage
+	Advertising
+	Screenshot
+	Banner
+	Event
+	Sign
+	Brand
+	

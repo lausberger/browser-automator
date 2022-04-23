@@ -1,0 +1,55 @@
+Ad 1:
+	Rectangle
+	Font
+	Magenta
+	Parallel
+	Circle
+	Number
+	Pattern
+	Brand
+	Paper product
+	Screenshot
+Ad 2:
+	Rectangle
+	Font
+	Parallel
+	Office supplies
+	Gadget
+	Screenshot
+	Circle
+	Metal
+	Logo
+	Number
+Ad 3:
+	Sky
+	Rectangle
+	Font
+	Circle
+	Magenta
+	Paper product
+	Brand
+	Art
+	Paper
+	Number
+Ad 4:
+	Joint
+	Hand
+	Shoulder
+	Arm
+	One-piece garment
+	Dress
+	Purple
+	Human body
+	Sleeve
+	Gesture
+Ad 5:
+	Output device
+	Communication Device
+	Sleeve
+	Telephony
+	Gadget
+	Mobile phone
+	Gesture
+	Portable communications device
+	Font
+	Mobile device

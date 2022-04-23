@@ -1,0 +1,55 @@
+Ad 1:
+	Organism
+	Font
+	Line
+	Technology
+	Electric blue
+	Circle
+	Slope
+	Brand
+	Engineering
+	Event
+Ad 2:
+	Font
+	Violet
+	Rectangle
+	Electric blue
+	Sky
+	Signage
+	Number
+	Screenshot
+	Magenta
+	Logo
+Ad 3:
+	World
+	Product
+	Azure
+	Organism
+	Rectangle
+	Font
+	Gadget
+	Display device
+	Electric blue
+	Screenshot
+Ad 4:
+	Output device
+	Funeral
+	Automotive design
+	Computer
+	Font
+	Automotive exterior
+	Rectangle
+	Screenshot
+	Gadget
+	Display device
+Ad 5:
+	Rectangle
+	Font
+	Magenta
+	Paper
+	Circle
+	Paper product
+	Brand
+	Screenshot
+	Number
+	Parallel

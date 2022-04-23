@@ -1,0 +1,53 @@
+Ad 1:
+	Font
+	Electric blue
+	Signage
+	Rectangle
+	Banner
+	Brand
+	Number
+	Screenshot
+Ad 2:
+	Triangle
+	Automotive design
+	Font
+	Parallel
+	Rectangle
+	Electronic device
+	Screenshot
+	Carmine
+	Symbol
+	Circle
+Ad 3:
+	Rectangle
+	Font
+	Magenta
+	Circle
+	Number
+	Brand
+	Pattern
+	Paper product
+	Paper
+	Screenshot
+Ad 4:
+	Rectangle
+	Font
+	Magenta
+	Circle
+	Parallel
+	Number
+	Triangle
+	Pattern
+	Paper product
+	Brand
+Ad 5:
+	Rectangle
+	Font
+	Magenta
+	Signage
+	Electric blue
+	Photo caption
+	Darkness
+	Brand
+	Advertising
+	Graphics

@@ -1,0 +1,50 @@
+Ad 1:
+	Rectangle
+	Office supplies
+	Gadget
+	Font
+	Parallel
+	Communication Device
+	Display device
+	Screenshot
+	Metal
+	Multimedia
+Ad 2:
+	Font
+	Rectangle
+	Fixture
+	Number
+	Screenshot
+Ad 3:
+	Rectangle
+	Font
+	Magenta
+	Parallel
+	Circle
+	Number
+	Paper product
+	Paper
+	Brand
+	Pattern
+Ad 4:
+	Output device
+	Telephone
+	Telephony
+	Portable communications device
+	Gadget
+	Gesture
+	Mobile phone
+	Mobile device
+	Communication Device
+	Font
+Ad 5:
+	Rectangle
+	Font
+	Magenta
+	Circle
+	Parallel
+	Number
+	Pattern
+	Paper product
+	Brand
+	Signage

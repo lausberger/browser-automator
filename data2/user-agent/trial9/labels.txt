@@ -1,0 +1,55 @@
+Ad 1:
+	World
+	Product
+	Azure
+	Organism
+	Rectangle
+	Aqua
+	Font
+	Technology
+	Display device
+	Electric blue
+Ad 2:
+	World
+	Organism
+	Font
+	Grass
+	Adaptation
+	Electric blue
+	Happy
+	Advertising
+	Leisure
+	Brand
+Ad 3:
+	Grass
+	Rectangle
+	Font
+	Electric blue
+	Brand
+	Logo
+	Signage
+	Graphics
+	Banner
+	Advertising
+Ad 4:
+	World
+	Blue
+	Azure
+	Font
+	Material property
+	Urban design
+	Landmark
+	Electric blue
+	Publication
+	House
+Ad 5:
+	World
+	Nature
+	Organism
+	Font
+	Grass
+	Adaptation
+	Happy
+	Electric blue
+	Photo caption
+	Games

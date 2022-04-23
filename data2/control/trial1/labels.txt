@@ -1,0 +1,55 @@
+Ad 1:
+	Purple
+	Rectangle
+	Violet
+	Font
+	Magenta
+	Display device
+	Electric blue
+	Pattern
+	Electronic device
+	Circle
+Ad 2:
+	Automotive parking light
+	Wheel
+	Tire
+	Car
+	Vehicle
+	Hood
+	Automotive tire
+	Automotive lighting
+	Line
+	Motor vehicle
+Ad 3:
+	Sky
+	Purple
+	Violet
+	Font
+	Magenta
+	Rectangle
+	Electric blue
+	Signage
+	Darkness
+	Brand
+Ad 4:
+	Purple
+	Rectangle
+	Violet
+	Font
+	Magenta
+	Display device
+	Electric blue
+	Pattern
+	Circle
+	Signage
+Ad 5:
+	Gesture
+	Beard
+	Font
+	Moustache
+	T-shirt
+	Electric blue
+	Player
+	Smile
+	Happy
+	Facial hair

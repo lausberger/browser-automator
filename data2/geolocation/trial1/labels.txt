@@ -1,0 +1,42 @@
+Ad 1:
+	Rectangle
+	Font
+	Logo
+	Brand
+	Graphics
+	Electric blue
+	Paper product
+	Circle
+Ad 2:
+	Sky
+	Rectangle
+	Font
+	Handwriting
+	Magenta
+	Circle
+	Paper product
+	Art
+	Number
+	Brand
+Ad 3:
+	Triangle
+	Rectangle
+	Gadget
+	Office supplies
+	Font
+	Pencil
+	Communication Device
+	Office instrument
+	Metal
+	Writing implement
+Ad 4:
+	Rectangle
+	Font
+	Magenta
+	Circle
+	Parallel
+	Number
+	Paper product
+	Brand
+	Pattern
+	Paper

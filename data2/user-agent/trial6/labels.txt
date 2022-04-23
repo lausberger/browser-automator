@@ -1,0 +1,54 @@
+Ad 1:
+	Rectangle
+	Font
+	Screenshot
+	Parallel
+	Multimedia
+	Electric blue
+	Display device
+	Brand
+	Gas
+	Circle
+Ad 2:
+	Human body
+	Font
+	Art
+	Rectangle
+	Circle
+	Brand
+	Logo
+	Graphics
+	Magenta
+	Paper product
+Ad 3:
+	Font
+	Rectangle
+	Logo
+	Brand
+	Graphics
+	Electric blue
+	Screenshot
+	Circle
+	Paper product
+Ad 4:
+	Triangle
+	Font
+	Parallel
+	Rectangle
+	Musical instrument accessory
+	Slope
+	Automotive design
+	Automotive exterior
+	Carmine
+	Pencil
+Ad 5:
+	Rectangle
+	Font
+	Art
+	Circle
+	Magenta
+	Paper product
+	Brand
+	Sky
+	Number
+	Paper

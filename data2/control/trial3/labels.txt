@@ -1,0 +1,53 @@
+Ad 1:
+	Rectangle
+	Font
+	Automotive exterior
+	Auto part
+	Electric blue
+	Signage
+	Brand
+	Logo
+	Graphics
+	Sign
+Ad 2:
+	Product
+	Rectangle
+	Font
+	Parallel
+	Screenshot
+	Magenta
+	Brand
+	Logo
+	Circle
+	Number
+Ad 3:
+	Rectangle
+	Font
+	Automotive exterior
+	Electric blue
+	Signage
+	Auto part
+	Logo
+	Graphics
+	Brand
+	Sign
+Ad 4:
+	Product
+	Rectangle
+	Red
+	Font
+	Screenshot
+	Parallel
+	Magenta
+	Brand
+	Fruit
+	Apple
+Ad 5:
+	Rectangle
+	Font
+	Logo
+	Electric blue
+	Brand
+	Graphics
+	Paper product
+	Circle

@@ -1,0 +1,55 @@
+Ad 1:
+	Sky
+	Font
+	Rectangle
+	Art
+	Magenta
+	Circle
+	Brand
+	Paper product
+	Logo
+	Paper
+Ad 2:
+	Rectangle
+	Font
+	Screenshot
+	Electronic device
+	Gas
+	Multimedia
+	Parallel
+	Electric blue
+	Circle
+	Display device
+Ad 3:
+	Rectangle
+	Font
+	Slope
+	Circle
+	Magenta
+	Electric blue
+	Logo
+	Pattern
+	Brand
+	Number
+Ad 4:
+	Rectangle
+	Gadget
+	Font
+	Office supplies
+	Communication Device
+	Multimedia
+	Screenshot
+	Display device
+	Metal
+	Logo
+Ad 5:
+	Rectangle
+	Font
+	Brand
+	Magenta
+	Number
+	Circle
+	Screenshot
+	Paper product
+	Document
+	Paper

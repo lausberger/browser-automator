@@ -1,0 +1,55 @@
+Ad 1:
+	Font
+	Rectangle
+	Screenshot
+	Electronic device
+	Technology
+	Multimedia
+	Electric blue
+	Terrestrial plant
+	Number
+	Parallel
+Ad 2:
+	Font
+	Rectangle
+	Screenshot
+	Technology
+	Electronic device
+	Multimedia
+	Electric blue
+	Terrestrial plant
+	Number
+	Gas
+Ad 3:
+	Sky
+	Font
+	Rectangle
+	Art
+	Circle
+	Magenta
+	Brand
+	Paper product
+	Number
+	Logo
+Ad 4:
+	Sky
+	Rectangle
+	Font
+	Circle
+	Slope
+	Logo
+	Electric blue
+	Art
+	Graphics
+	Paper product
+Ad 5:
+	Material property
+	Font
+	Technology
+	Rectangle
+	Screenshot
+	Magenta
+	Number
+	Document
+	Circle
+	Parallel

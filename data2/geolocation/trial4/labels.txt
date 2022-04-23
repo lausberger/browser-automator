@@ -1,0 +1,55 @@
+Ad 1:
+	World
+	Font
+	Electric blue
+	Circle
+	Screenshot
+	Display device
+	Brand
+	Multimedia
+	Graphics
+	Logo
+Ad 2:
+	Sky
+	Purple
+	Font
+	Violet
+	Magenta
+	Electric blue
+	Signage
+	Darkness
+	Photo caption
+	Logo
+Ad 3:
+	Font
+	Sky
+	Electric blue
+	Screenshot
+	Multimedia
+	Photo caption
+	Darkness
+	Logo
+	Display device
+	Graphics
+Ad 4:
+	Sky
+	Violet
+	Font
+	Magenta
+	Electric blue
+	Circle
+	Art
+	Photo caption
+	Brand
+	Darkness
+Ad 5:
+	World
+	Font
+	Electric blue
+	Circle
+	Display device
+	Brand
+	Science
+	Multimedia
+	Logo
+	Graphics

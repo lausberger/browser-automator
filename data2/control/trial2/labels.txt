@@ -1,0 +1,50 @@
+Ad 1:
+	Font
+	Rectangle
+	Event
+	Number
+	Circle
+Ad 2:
+	Product
+	Output device
+	Telephone
+	Communication Device
+	Telephony
+	Gesture
+	Gadget
+	Mobile device
+	Portable communications device
+	Font
+Ad 3:
+	Rectangle
+	Font
+	Automotive exterior
+	Electric blue
+	Auto part
+	Signage
+	Logo
+	Brand
+	Sign
+	Event
+Ad 4:
+	Sharing
+	Font
+	T-shirt
+	Advertising
+	Event
+	Happy
+	Brand
+	Job
+	Logo
+	Signage
+Ad 5:
+	Rectangle
+	Font
+	Automotive exterior
+	Electric blue
+	Auto part
+	Signage
+	Sign
+	Logo
+	Brand
+	Event

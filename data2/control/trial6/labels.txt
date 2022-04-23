@@ -1,0 +1,52 @@
+Ad 1:
+	Rectangle
+	Font
+	Electric blue
+	Signage
+	Event
+	Magenta
+	Advertising
+	Brand
+	Graphics
+	Logo
+Ad 2:
+	Triangle
+	Rectangle
+	Office supplies
+	Communication Device
+	Gadget
+	Font
+	Office instrument
+	Writing implement
+	Pencil
+	Stationery
+Ad 3:
+	Rectangle
+	Sky
+	Font
+	Circle
+	Magenta
+	Number
+	Paper product
+	Brand
+	Pattern
+	Paper
+Ad 4:
+	Font
+	Grass
+	Rectangle
+	Electric blue
+	Brand
+	Logo
+	Signage
+	Graphics
+	Trademark
+	Banner
+Ad 5:
+	Font
+	Screenshot
+	Rectangle
+	Number
+	Circle
+	Document
+	Event

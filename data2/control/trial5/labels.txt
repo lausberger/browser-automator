@@ -1,0 +1,53 @@
+Ad 1:
+	Communication Device
+	Line
+	Output device
+	Font
+	Gadget
+	Rectangle
+	Audio equipment
+	Electric blue
+	Circle
+	Smartphone
+Ad 2:
+	Rectangle
+	Font
+	Screenshot
+	Parallel
+	Electric blue
+	Multimedia
+	Number
+	Media
+Ad 3:
+	Rectangle
+	Font
+	Paper
+	Magenta
+	Screenshot
+	Paper product
+	Circle
+	Brand
+	Number
+	Document
+Ad 4:
+	Rectangle
+	Font
+	Magenta
+	Circle
+	Number
+	Paper product
+	Handwriting
+	Pattern
+	Paper
+	Brand
+Ad 5:
+	World
+	Product
+	Rectangle
+	Font
+	Technology
+	Display device
+	Electric blue
+	Screenshot
+	Signage
+	Advertising

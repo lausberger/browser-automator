@@ -1,0 +1,51 @@
+Ad 1:
+	Organism
+	Art
+	Font
+	Circle
+	Urban design
+	Event
+	Ceiling
+	Metal
+	Symmetry
+	Fashion accessory
+Ad 2:
+	Rectangle
+	Font
+	Magenta
+	Circle
+	Parallel
+	Number
+	Pattern
+	Brand
+	Paper product
+	Paper
+Ad 3:
+	Font
+	Electric blue
+	Signage
+	Screenshot
+	Banner
+	Rectangle
+Ad 4:
+	Sky
+	Rectangle
+	Font
+	Circle
+	Magenta
+	Art
+	Brand
+	Number
+	Paper product
+	Logo
+Ad 5:
+	Output device
+	Telephony
+	Gesture
+	Mobile device
+	Portable communications device
+	Communication Device
+	Gadget
+	Telephone
+	Audio equipment
+	Font

@@ -1,0 +1,52 @@
+Ad 1:
+	Human body
+	Rectangle
+	Font
+	Sky
+	Art
+	Circle
+	Magenta
+	Brand
+	Paper product
+	Logo
+Ad 2:
+	Output device
+	Sleeve
+	Communication Device
+	Telephony
+	Mobile phone
+	Gesture
+	Portable communications device
+	Gadget
+	Space bar
+	Mobile device
+Ad 3:
+	Output device
+	Sleeve
+	Communication Device
+	Mobile phone
+	Telephony
+	Gesture
+	Gadget
+	Portable communications device
+	Space bar
+	Font
+Ad 4:
+	Grass
+	Font
+	Rectangle
+	Electric blue
+	Brand
+	Logo
+	Signage
+	Graphics
+	Event
+	Banner
+Ad 5:
+	Rectangle
+	Font
+	Logo
+	Brand
+	Electric blue
+	Paper product
+	Graphics

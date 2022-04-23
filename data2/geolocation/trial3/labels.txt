@@ -1,0 +1,32 @@
+Ad 1:
+	Rectangle
+	Font
+	Circle
+	Magenta
+	Parallel
+	Number
+	Paper product
+	Pattern
+	Brand
+	Screenshot
+Ad 2:
+	Font
+	Electric blue
+	Signage
+	Advertising
+	Banner
+	Screenshot
+	Rectangle
+	Brand
+	Sign
+Ad 3:
+	Human body
+	Font
+	Rectangle
+	Sky
+	Art
+	Circle
+	Magenta
+	Paper product
+	Brand
+	Logo

@@ -1,0 +1,51 @@
+Ad 1:
+	Rectangle
+	Font
+	Circle
+	Magenta
+	Parallel
+	Number
+	Paper product
+	Pattern
+	Brand
+	Paper
+Ad 2:
+	Office supplies
+	Rectangle
+	Writing implement
+	Cosmetics
+	Font
+	Office instrument
+	Stationery
+	Gadget
+	Writing instrument accessory
+	Paper product
+Ad 3:
+	Font
+	Electric blue
+	Screenshot
+	Signage
+	Brand
+	Gas
+Ad 4:
+	Rectangle
+	Font
+	Magenta
+	Circle
+	Parallel
+	Pattern
+	Number
+	Brand
+	Paper product
+	Symbol
+Ad 5:
+	Output device
+	Sleeve
+	Communication Device
+	Telephony
+	Gadget
+	Gesture
+	Smile
+	Portable communications device
+	Mobile phone
+	Mobile device

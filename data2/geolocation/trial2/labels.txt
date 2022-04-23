@@ -1,0 +1,54 @@
+Ad 1:
+	World
+	Organism
+	Font
+	Happy
+	Grass
+	Adaptation
+	Electric blue
+	Leisure
+	Games
+	Natural landscape
+Ad 2:
+	World
+	Azure
+	Font
+	Sky
+	Gadget
+	Rectangle
+	Screenshot
+	Display device
+	Technology
+	Electric blue
+Ad 3:
+	World
+	Font
+	Sky
+	Real estate
+	Electric blue
+	Screenshot
+	Display device
+	Signage
+	Advertising
+	Condominium
+Ad 4:
+	Font
+	Electric blue
+	Technology
+	Signage
+	Screenshot
+	Event
+	Banner
+	Advertising
+	Rectangle
+Ad 5:
+	World
+	Organism
+	Font
+	Adaptation
+	Grass
+	Electric blue
+	Happy
+	Leisure
+	Advertising
+	Recreation

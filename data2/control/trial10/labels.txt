@@ -1,0 +1,53 @@
+Ad 1:
+	Product
+	Grass
+	Font
+	Rectangle
+	Electric blue
+	Brand
+	Signage
+	Logo
+	Graphics
+	Event
+Ad 2:
+	Output device
+	Telephony
+	Sleeve
+	Communication Device
+	Mobile phone
+	Gesture
+	Gadget
+	Portable communications device
+	Space bar
+	Mobile device
+Ad 3:
+	Rectangle
+	Font
+	Logo
+	Brand
+	Electric blue
+	Graphics
+	Circle
+	Screenshot
+Ad 4:
+	Rectangle
+	Gadget
+	Font
+	Office supplies
+	Parallel
+	Display device
+	Screenshot
+	Multimedia
+	Communication Device
+	Logo
+Ad 5:
+	Grass
+	Font
+	Rectangle
+	Electric blue
+	Brand
+	Signage
+	Logo
+	Graphics
+	Event
+	Advertising

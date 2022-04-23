@@ -1,0 +1,55 @@
+Ad 1:
+	Sky
+	Purple
+	Human body
+	Violet
+	Pink
+	Plant
+	Rectangle
+	Line
+	Art
+	Font
+Ad 2:
+	Rectangle
+	Font
+	Aqua
+	Gadget
+	Technology
+	Electric blue
+	Electronic device
+	Circle
+	Signage
+	Symbol
+Ad 3:
+	Font
+	Sky
+	Rectangle
+	Art
+	Circle
+	Magenta
+	Paper product
+	Brand
+	Number
+	Paper
+Ad 4:
+	Purple
+	Violet
+	Font
+	Magenta
+	Electric blue
+	Rectangle
+	Automotive design
+	Asphalt
+	Circle
+	Darkness
+Ad 5:
+	Purple
+	Black
+	Watch
+	Output device
+	Violet
+	Font
+	Magenta
+	Electric blue
+	Gadget
+	Rectangle

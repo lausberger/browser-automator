@@ -1,0 +1,53 @@
+Ad 1:
+	Rectangle
+	Font
+	Logo
+	Brand
+	Electric blue
+	Graphics
+	Circle
+	Paper product
+Ad 2:
+	World
+	Azure
+	Organism
+	Font
+	Sky
+	Rectangle
+	Electric blue
+	Screenshot
+	Technology
+	Display device
+Ad 3:
+	World
+	Product
+	Azure
+	Rectangle
+	Font
+	Display device
+	Automotive exterior
+	Technology
+	Electric blue
+	Gadget
+Ad 4:
+	World
+	Nature
+	Organism
+	Font
+	Grass
+	Adaptation
+	Happy
+	Electric blue
+	Leisure
+	Games
+Ad 5:
+	World
+	Nature
+	Organism
+	Font
+	Grass
+	Adaptation
+	Electric blue
+	Happy
+	Photo caption
+	Games
