@@ -1,0 +1,96 @@
+Ad 1:
+	Labels:
+		Rectangle
+		Font
+		Circle
+		Brand
+		Parallel
+		Multimedia
+		Logo
+		Graphics
+		Electric blue
+		Screenshot
+	Text:
+		HP
+		Spring
+		Sald|
+		HP
+		EliteDesk
+		800
+		G6
+		Small
+		Form
+		Factor
+		PC
+		from
+		$919.00
+		$1,5G9:00
+		220
+		#S092ua
+		SHOP
+		NOW
+		hp
+		Windows
+		10
+		HP
+		recommends
+		Windows
+		10
+		Pro
+		for
+		Business
+Ad 2:
+	Labels:
+		Tire
+		Car
+		Vehicle
+		Automotive lighting
+		Wheel
+		Automotive mirror
+		Tints and shades
+		Automotive design
+		Vehicle door
+		Entertainment
+	Text:
+		THE
+		BATMAN
+		NOW
+		STREAMING
+		HBOMAX
+		SIGN
+		UP
+		NOw
+		PLANS
+		START
+		AT
+		$99/MONTH
+		HBO
+Ad 3:
+	Labels:
+		Helmet
+		Font
+		Movie
+		Action film
+		Fictional character
+		Event
+		Poster
+		Bat
+		Photo caption
+		Entertainment
+	Text:
+		BATMAN
+		2022
+		WBE
+		TME
+		DC
+		HBO
+		NOW
+		STREAMING
+		HBOMAX
+		STARTING
+		AT
+		$9*
+		/MONTH
+		SIGN
+		UP
+		NOW

@@ -1,0 +1,186 @@
+Ad 1:
+	Labels:
+		Car
+		Automotive lighting
+		Vehicle
+		Tire
+		Wheel
+		Motor vehicle
+		Vehicle door
+		Tints and shades
+		Automotive design
+		Font
+	Text:
+		BATMAN
+		THE
+		NOW
+		STREAMING
+		HBOMAX
+		SIGN
+		UP
+		NOw
+		PLANS
+		START
+		AT
+		$9/MONTH
+		HBO
+Ad 2:
+	Labels:
+		Automotive lighting
+		Car
+		Vehicle
+		Motor vehicle
+		Vehicle door
+		Tints and shades
+		Font
+		Personal luxury car
+		Entertainment
+		Event
+	Text:
+		BATMAN
+		THE
+		NOW
+		STREAMING
+		HBOMAX
+		SIGN
+		UP
+		NOw
+		PLANS
+		START
+		AT
+		$99/MONTH
+		HBO
+Ad 3:
+	Labels:
+		Rectangle
+		Font
+		Gadget
+		Circle
+		Multimedia
+		Brand
+		Electric blue
+		Gas
+		Screenshot
+		Graphics
+	Text:
+		HP
+		Spring
+		SaldD×
+		HP
+		EliteDesk
+		800
+		G6
+		Small
+		Form
+		Factor
+		PC
+		from
+		$919.00
+		$4,569.00
+		22
+		#50292ua
+		SHOP
+		NOW
+		hp
+		Windows
+		10
+		HP
+		recommends
+		Windows
+		10
+		Pro
+		for
+		Business
+Ad 1:
+	Labels:
+		Car
+		Automotive lighting
+		Vehicle
+		Tire
+		Wheel
+		Motor vehicle
+		Vehicle door
+		Tints and shades
+		Automotive design
+		Font
+	Text:
+		BATMAN
+		THE
+		NOW
+		STREAMING
+		HBOMAX
+		SIGN
+		UP
+		NOw
+		PLANS
+		START
+		AT
+		$9/MONTH
+		HBO
+Ad 2:
+	Labels:
+		Automotive lighting
+		Car
+		Vehicle
+		Motor vehicle
+		Vehicle door
+		Tints and shades
+		Font
+		Personal luxury car
+		Entertainment
+		Event
+	Text:
+		BATMAN
+		THE
+		NOW
+		STREAMING
+		HBOMAX
+		SIGN
+		UP
+		NOw
+		PLANS
+		START
+		AT
+		$99/MONTH
+		HBO
+Ad 3:
+	Labels:
+		Rectangle
+		Font
+		Gadget
+		Circle
+		Multimedia
+		Brand
+		Electric blue
+		Gas
+		Screenshot
+		Graphics
+	Text:
+		HP
+		Spring
+		SaldD×
+		HP
+		EliteDesk
+		800
+		G6
+		Small
+		Form
+		Factor
+		PC
+		from
+		$919.00
+		$4,569.00
+		22
+		#50292ua
+		SHOP
+		NOW
+		hp
+		Windows
+		10
+		HP
+		recommends
+		Windows
+		10
+		Pro
+		for
+		Business

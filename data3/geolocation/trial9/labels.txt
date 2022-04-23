@@ -1,0 +1,151 @@
+Ad 1:
+	Labels:
+		Computer
+		Personal computer
+		Laptop
+		Output device
+		Netbook
+		Product
+		Gadget
+		Font
+		Tablet computer
+		Communication Device
+	Text:
+		[D
+		X
+		DELL
+		Technologies
+		QUARTERLY
+		BUSINES
+		S
+		SALE
+		UP
+		TO
+		48%
+		OFF
+		TECH
+		FOR
+		SUCCESS
+		Legal
+		Rollover
+		Shop
+		Now
+		intel.
+		CORE
+		i7
+		Intel®
+		Core™
+		i7
+		processor
+Ad 2:
+	Labels:
+		Tablet computer
+		Output device
+		Communication Device
+		Gadget
+		Rectangle
+		Portable communications device
+		Flat panel display
+		Font
+		Mobile device
+		Electric blue
+	Text:
+		QUARTERLY
+		BUSINESS
+		SALE
+		intel
+		DELL
+		Intel®
+		WORK
+		WITHOUT
+		LIMITS
+		Shop
+		Now
+		Click
+		for
+		legal.
+		CORE
+		Core
+		TM
+		i7
+		Technologies
+		Processor
+Ad 3:
+	Labels:
+		Property
+		World
+		Azure
+		Rectangle
+		Aqua
+		Font
+		Display device
+		Technology
+		Electric blue
+		Electronic device
+	Text:
+		High-quality
+		internet
+		ImOn
+		LEARN
+		Hometown
+		integrity
+		MORE
+		Ioway
+		City
+Ad 4:
+	Labels:
+		Computer
+		Output device
+		Laptop
+		Personal computer
+		Product
+		Font
+		Computer keyboard
+		Netbook
+		Gadget
+		Rectangle
+	Text:
+		DELLTechnologies
+		QUARTERLY
+		BUSINESS
+		SALE
+		UP
+		TO
+		48%
+		OFF
+		TECH
+		FOR
+		SUCCESS
+		intel.
+		CORE
+		Legal
+		Rollover
+		Intel®
+		Core"
+		i7
+		17
+		Shop
+		Now
+		processor
+Ad 5:
+	Labels:
+		World
+		Natural environment
+		Organism
+		Font
+		Adaptation
+		Electric blue
+		Urban design
+		Brand
+		Grass
+		Advertising
+	Text:
+		High-quality
+		internet
+		Hometown
+		integrity
+		ImOn
+		Towa
+		Ccity
+		LEARN
+		MORE

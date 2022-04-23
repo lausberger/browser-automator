@@ -1,0 +1,38 @@
+Ad 1:
+	Labels:
+		Output device
+		Mobile phone
+		Communication Device
+		Portable communications device
+		Mobile device
+		Gadget
+		Telephony
+		Font
+		Flat panel display
+		Smartphone
+	Text:
+		HP
+		Spring
+		SalP|
+		HP
+		EliteOne
+		800
+		G6
+		All-
+		in-One
+		PC
+		from
+		$1,034.99
+		#3f0yBup
+		SHOP
+		NOW
+		hp
+		Windows
+		10
+		HP
+		recommends
+		Windows
+		10
+		Pro
+		for
+		Business

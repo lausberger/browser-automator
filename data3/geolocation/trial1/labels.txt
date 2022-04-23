@@ -1,0 +1,123 @@
+Ad 1:
+	Labels:
+		Nose
+		Chin
+		Eyebrow
+		Facial expression
+		Eyelash
+		Jaw
+		Eye shadow
+		Violet
+		Font
+		Material property
+	Text:
+		HARD
+		KNOCKS
+		STREAM
+		TRIUMPHANT
+		SPORTS
+		SAGAS
+		WINNING
+		TIME
+		BEING
+		SERENA
+		HBOMAX
+		SIGN
+		UP
+		NOw
+		IN
+		SEASON
+		PLANS
+		START
+		AT
+		$9/MONTH
+Ad 2:
+	Labels:
+		Facial expression
+		Product
+		Human
+		Font
+		Television presenter
+		Happy
+		Advertising
+		Event
+		Wood
+		Sharing
+	Text:
+		max
+		ORIGINAL
+		+CHEF
+		ENJOY
+		NEW
+		STREAMING
+		OPTIONS
+		HBOMAX
+		SIGN
+		UP
+		NOW
+		STARTING
+		AT
+		$99/MONTH
+Ad 3:
+	Labels:
+		Computer
+		Personal computer
+		Netbook
+		Output device
+		Laptop
+		Computer keyboard
+		Communication Device
+		Font
+		Tablet computer
+		Input device
+	Text:
+		DELL
+		Technologies
+		QUARTERLY
+		BUSINESS
+		SALE
+		UP
+		TO
+		48%
+		OFF
+		TECH
+		FOR
+		SUCCESS
+		Legal
+		Rollover
+		Shop
+		Now
+		intel.
+		CORE
+		17
+		Intel®
+		Core"
+		i7
+		processor
+Ad 4:
+	Labels:
+		Smile
+		Shirt
+		Yellow
+		Happy
+		Font
+		T-shirt
+		Adaptation
+		Fun
+		Event
+		Entertainment
+	Text:
+		HBO
+		CRIGNAL
+		STREAM
+		THE
+		WINNERS
+		WINNINGTME
+		HBOMAX
+		SIGN
+		UP
+		NOw
+		PLANS
+		START
+		AT
+		$99/MONTH

@@ -1,0 +1,69 @@
+Ad 1:
+	Labels:
+		Sky
+		Violet
+		Rectangle
+		Font
+		Electric blue
+		Magenta
+		Circle
+		Display device
+		Logo
+		Signage
+	Text:
+		Your
+		vacation
+		is
+		just
+		a
+		drive
+		away
+		a
+		.....
+Ad 2:
+	Labels:
+		Plant
+		Nature
+		Water
+		Organism
+		Font
+		Grass
+		Rectangle
+		Terrestrial plant
+		Natural landscape
+		Adaptation
+	Text:
+		Vrbo
+		Vacation
+		homes
+		for
+		whoever
+		you
+		call
+		family
+		Find
+		yours
+		A
+Ad 3:
+	Labels:
+		Plant
+		Ecoregion
+		Mountain
+		Natural landscape
+		Land lot
+		Sky
+		Grass
+		Biome
+		Tree
+		Cottage
+	Text:
+		Vrbo
+		Vacation
+		homes
+		Find
+		yours
+		for
+		whoever
+		you
+		call
+		family

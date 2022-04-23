@@ -1,0 +1,135 @@
+Ad 1:
+	Labels:
+		Blue
+		Flat panel display
+		Entertainment
+		Performing arts
+		Display device
+		Art
+		Electric blue
+		Event
+		Television set
+		Multimedia
+	Text:
+		ENJOY
+		NEW
+		STREAMING
+		OPTIONS
+		DC
+		STARGIRL
+		HBOMAX
+		STARTING
+		AT
+		$9*
+		/MONTH
+		SIGN
+		UP
+		NOw
+Ad 2:
+	Labels:
+		Jheri curl
+		Ringlet
+		Gesture
+		Wig
+		Afro
+		Eyelash
+		Long hair
+		Surfer hair
+		Brown hair
+		Blond
+	Text:
+		AdChoices
+		X
+		SELCOME
+		OFFER
+		AM
+		EX
+		EARN
+		$250
+		BACK
+		LEARN
+		MORE
+		>
+		"After
+		you
+		spend
+		$3.000
+		in
+		the
+		first
+		3
+		months.
+		Cash
+		back
+		caps
+		and
+		other
+		rates,
+		fees
+		and
+		terms
+		apply
+		AMERICAN
+		EXXPRESS
+		BLUMEE
+		CAEK
+Ad 3:
+	Labels:
+		Font
+		Event
+		Movie
+		Helmet
+		Action film
+		Poster
+		Fictional character
+		Entertainment
+		Photo caption
+		Logo
+	Text:
+		HE
+		BATMAN
+		2022
+		WBEI
+		TM
+		&
+		DC
+		HBO
+		NOW
+		STREAMING
+		HBOMAX
+		SIGN
+		UP
+		NOW
+		STARTING
+		AT
+		$9/MONTH
+Ad 4:
+	Labels:
+		Font
+		Poster
+		Entertainment
+		Advertising
+		Movie
+		Event
+		Photo caption
+		Team
+		Happy
+		Art
+	Text:
+		FAST&
+		FURIOUS
+		THE
+		FAST
+		SAGA
+		HBO
+		ENJOY
+		NEW
+		STREAMING
+		OPTIONS
+		HBOMAX
+		SIGN
+		UP
+		NOw
+		STARTING
+		AT
+		$9/MONTH

@@ -1,0 +1,79 @@
+Ad 1:
+	Labels:
+		Chin
+		Jheri curl
+		Ringlet
+		Neck
+		Gesture
+		Wig
+		Afro
+		Brown hair
+		Fashion design
+		Surfer hair
+	Text:
+		AdChoices
+		X
+		AM
+		EX
+		EARN
+		$250
+		BACK*
+		LEARN
+		MORE
+		)
+		"After
+		you
+		spend
+		$3.000
+		in
+		the
+		first
+		3
+		months.
+		Cash
+		back
+		caps
+		and
+		other
+		rates,
+		fees
+		and
+		terms
+		apply
+		AMERICAN
+		EXPRESS
+		BLIN
+		CAEK
+		ELCOME
+		OFFER
+Ad 2:
+	Labels:
+		Sleeve
+		Font
+		Poster
+		Movie
+		Action film
+		Fictional character
+		Event
+		Bat
+		Photo caption
+		Logo
+	Text:
+		THE
+		BATMAN
+		POHD
+		2002
+		wo
+		TH
+		&OC
+		HBO
+		NOW
+		STREAMING
+		HBOMAX
+		S1GN
+		UP
+		NOW
+		PLANS
+		START
+		AT
+		$99/MONTH

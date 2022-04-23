@@ -1,0 +1,97 @@
+Ad 1:
+	Labels:
+		Font
+		Poster
+		Movie
+		Fictional character
+		Action film
+		Event
+		Photo caption
+		Advertising
+		Screenshot
+		Logo
+	Text:
+		THE
+		BATMAN
+		2002
+		WO
+		THE
+		OC
+		HBO
+		NOW
+		STREAMING
+		HBOMAX
+		SIGN
+		UP
+		NOW
+		PLANS
+		START
+		AT
+		$99/MONTH
+Ad 2:
+	Labels:
+		Mobile phone
+		Telephony
+		Communication Device
+		Mobile device
+		Portable communications device
+		Gadget
+		Font
+		Smartphone
+		Output device
+		Operating system
+	Text:
+		HP
+		Spring
+		Sald
+		НP
+		ElteBook
+		x3601040
+		G8
+		Notebook
+		PC
+		from
+		$1,859.00
+		#GOSdSut
+		SHOP
+		NOW
+		bp
+		Windows
+		10
+		HP
+		recommends
+		Windows
+		10
+		Pro
+		for
+		Business
+Ad 3:
+	Labels:
+		Output device
+		Font
+		Technology
+		Audio equipment
+		Gadget
+		Multimedia
+		Advertising
+		Machine
+		Peripheral
+		Photo caption
+	Text:
+		HBO
+		ORIGINAL
+		THE
+		XSHOP
+		UNINTERRUPTED
+		ENJOY
+		NEW
+		STREAMING
+		OPTIONS
+		HBOMAX
+		STARTING
+		AT
+		$9
+		/MONTH
+		SIGN
+		UP
+		NOW

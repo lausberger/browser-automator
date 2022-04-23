@@ -1,0 +1,56 @@
+Ad 1:
+	Labels:
+		Font
+		Poster
+		Fictional character
+		Event
+		Movie
+		Photo caption
+		Action film
+		Advertising
+		Logo
+		Screenshot
+	Text:
+		THE
+		BATMAN
+		2022
+		WOD
+		TH
+		&oc
+		HBO
+		NOW
+		STREAMING
+		HBOMAX
+		SIGN
+		UP
+		NOW
+		PLANS
+		START
+		AT
+		$99/MONTH
+Ad 2:
+	Labels:
+		Car
+		Automotive lighting
+		Hood
+		Vehicle
+		Automotive mirror
+		Entertainment
+		Vehicle door
+		Font
+		Motor vehicle
+		Tints and shades
+	Text:
+		BATMAN
+		THE
+		NOW
+		STREAMING
+		HBOMAX
+		SIGN
+		UP
+		NOW
+		PLANS
+		START
+		AT
+		$99/MONTH
+		HBO

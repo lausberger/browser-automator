@@ -1,0 +1,82 @@
+Ad 1:
+	Labels:
+		Product
+		Output device
+		Purple
+		Font
+		Technology
+		Audio equipment
+		Flooring
+		Multimedia
+		Machine
+		Advertising
+	Text:
+		HBO
+		ORIGINAL
+		THE
+		XSHOP
+		UNINTERRUPTED
+		ENJOY
+		NEW
+		STREAMING
+		OPTIONS
+		HBOMAX
+		SIGN
+		UP
+		NOW
+		STARTING
+		AT
+		$9"/MONTH
+Ad 2:
+	Labels:
+		Car
+		Automotive lighting
+		Vehicle
+		Motor vehicle
+		Vehicle door
+		Font
+		Heat
+		Tints and shades
+		Entertainment
+		Personal luxury car
+	Text:
+		BATMAN
+		R
+		THE
+		NOW
+		STREAMING
+		HBOMAX
+		SIGN
+		UP
+		NOw
+		PLANS
+		START
+		AT
+		$99/MONTH
+		HBO
+Ad 3:
+	Labels:
+		Car
+		Automotive lighting
+		Tire
+		Vehicle
+		Motor vehicle
+		Wheel
+		Entertainment
+		Vehicle door
+		Automotive design
+		Tints and shades
+	Text:
+		BATMAN
+		THE
+		NOW
+		STREAMING
+		HBOMAX
+		SIGN
+		UP
+		NOw
+		PLANS
+		START
+		AT
+		$99/MONTH
+		HBO

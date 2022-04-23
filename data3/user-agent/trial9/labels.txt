@@ -1,0 +1,158 @@
+Ad 1:
+	Labels:
+		Rectangle
+		Automotive exterior
+		Font
+		Gas
+		Bumper
+		Display device
+		Electric blue
+		Event
+		Brand
+		Signage
+	Text:
+		ENJOY
+		NEW
+		STREAMING
+		OPTIONS
+		THE
+		LORD
+		RINGS
+		HBOMAX
+		STARTING
+		AT
+		$99
+		/MONTH
+		SIGN
+		UP
+		NOW
+		THE
+		FELLOWSHIP
+		OF
+		THE
+		RING
+Ad 2:
+	Labels:
+		Computer
+		Personal computer
+		Netbook
+		Output device
+		Laptop
+		Product
+		Communication Device
+		Font
+		Mobile device
+		Touchpad
+	Text:
+		[D
+		X
+		DELL
+		Technologies
+		QUARTERLY
+		BUSINES
+		S
+		SALE
+		UP
+		TO
+		48%
+		OFF
+		TECH
+		FOR
+		SUCCESS
+		Legal
+		Rollover
+		Shop
+		Now
+		intel.
+		CORE
+		i7
+		Intel®
+		Core"
+		i7
+		processor
+Ad 3:
+	Labels:
+		Human
+		Font
+		Poster
+		Happy
+		Adaptation
+		Friendship
+		Tree
+		Event
+		Advertising
+		Photo caption
+	Text:
+		max
+		ORIGINAL
+		RAISED
+		BY
+		WOLVES
+		2
+		ENJOY
+		NEW
+		STREAMING
+		OPTIONS
+		HBOMAX
+		STARTING
+		AT
+		$9
+		/MONTH
+		SIGN
+		UP
+		NOW
+Ad 4:
+	Labels:
+		Rectangle
+		Font
+		Automotive exterior
+		Display device
+		Automotive lighting
+		Auto part
+		Vehicle registration plate
+		Advertising
+		Bumper
+		Brand
+	Text:
+		KONG
+		ENJOY
+		NEW
+		STREAMING
+		OPTIONS
+		HBOMAX
+		STARTING
+		AT
+		$99
+		/MONTH
+		SIGN
+		UP
+		NOw
+		SKULL
+		ISLAND
+Ad 5:
+	Labels:
+		Font
+		News
+		Movie
+		Poster
+		Screenshot
+		Photo caption
+		Advertising
+		Entertainment
+		Fictional character
+		Art
+	Text:
+		max
+		ORIGINAL
+		PERCFMAKER
+		ENJOY
+		NEW
+		STREAMING
+		OPTIONS
+		HBOMAX
+		SIGN
+		UP
+		NOw
+		STARTING
+		AT
+		$99/MONTH

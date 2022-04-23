@@ -1,0 +1,123 @@
+Ad 1:
+	Labels:
+		Font
+		Eyelash
+		Poster
+		Entertainment
+		Sports uniform
+		Hat
+		Advertising
+		Event
+		Movie
+		Jersey
+	Text:
+		HARD
+		KNOCKS
+		IN
+		SEASON
+		WINNING
+		TIME
+		BEING
+		SERENA
+		STREAM
+		TRIUMPHANT
+		SPORTS
+		SAGAS
+		HBOMAX
+		GIGN
+		UP
+		NOW
+		PLANS
+		START
+		AT
+		$9/MONTH
+Ad 2:
+	Labels:
+		Sleeve
+		Purple
+		Font
+		Event
+		Magenta
+		Electric blue
+		Advertising
+		Logo
+		Fictional character
+		Symbol
+	Text:
+		Struggling
+		with
+		staff
+		retention?
+		It's
+		about
+		time
+		to
+		end
+		turnover
+		LEARN
+		MORE
+		ModMed
+		MODERNIZING
+		MEDICINE
+Ad 3:
+	Labels:
+		Sleeve
+		Font
+		Screenshot
+		Technology
+		Movie
+		Helmet
+		Personal protective equipment
+		Games
+		Fictional character
+		Display device
+	Text:
+		BATMAN
+		[DX
+		STREAM
+		YOUR
+		FAVORITE
+		BATMAN
+		HBOMAX
+		SIGN
+		UP
+		NOw
+		NOW
+		STREAMING
+		THE
+		DARK
+		KNIGHT
+		BATMAN
+		PLANS
+		START
+		AT
+		$99/MONTH
+		HBO
+		TIMES
+		OC
+Ad 4:
+	Labels:
+		Car
+		Vehicle
+		Automotive lighting
+		World
+		Motor vehicle
+		Tire
+		Vehicle door
+		Font
+		Tints and shades
+		Automotive design
+	Text:
+		BATMAN
+		THE
+		NOW
+		STREAMING
+		HBOMAX
+		SIGN
+		UP
+		NOw
+		PLANS
+		START
+		AT
+		$99/MONTH
+		HBO

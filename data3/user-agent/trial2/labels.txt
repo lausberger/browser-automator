@@ -1,0 +1,132 @@
+Ad 1:
+	Labels:
+		Helmet
+		Sleeve
+		Jersey
+		Sports gear
+		Font
+		Screenshot
+		Personal protective equipment
+		Display device
+		Fictional character
+		Games
+	Text:
+		STREAM
+		YOUR
+		FAVORITE
+		BATMAN
+		BATMAN
+		HBOMAX
+		SIGN
+		UP
+		NOw
+		NOW
+		STREAMING
+		THE
+		DARK
+		KNIGHT
+		BATMAN
+		PLANS
+		START
+		AT
+		$99/MONTH
+		HBO
+Ad 2:
+	Labels:
+		Communication Device
+		Mobile phone
+		Portable communications device
+		Font
+		Gadget
+		Smartphone
+		Electric blue
+		Multimedia
+		Circle
+		Darkness
+	Text:
+		HP
+		Spring
+		SaldD|
+		HP
+		EliteDesk
+		800
+		G8
+		Desktop
+		Mini
+		PC
+		from
+		$1,119.00
+		#499wSut
+		SHOP
+		NOW
+		hp
+		Windows
+		10
+		HP
+		recommends
+		Windows
+		10
+		Pro
+		for
+		Business
+Ad 3:
+	Labels:
+		World
+		Font
+		Electric blue
+		Event
+		Advertising
+		Brand
+		Multimedia
+		Darkness
+		History
+		Presentation
+	Text:
+		Articles
+		BATMAN
+		THE
+		STREAMING
+		SIGN
+		UP
+		NOw
+		Speedtest
+		Global
+		IndexTM
+		RT
+		AT
+		$99/MONTH
+		Ookla
+		EG
+		M
+		anTM
+Ad 4:
+	Labels:
+		Font
+		Poster
+		Movie
+		Fictional character
+		Action film
+		Event
+		Art
+		Bat
+		Photo caption
+		Advertising
+	Text:
+		BАТМАN
+		THE
+		2022
+		WBD
+		TH
+		&
+		EC
+		HBO
+		NOW
+		STREAMING
+		HBOMAX
+		ION
+		UP
+		NOW
+		PLANS
+		START
+		AT
+		$99/MONTH

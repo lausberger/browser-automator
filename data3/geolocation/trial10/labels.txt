@@ -1,0 +1,102 @@
+Ad 1:
+	Labels:
+		Output device
+		Peripheral
+		Computer
+		Rectangle
+		Office equipment
+		Gadget
+		Personal computer
+		Computer hardware
+		Electronic instrument
+		Font
+	Text:
+		QUARTERLY
+		BUSINESS
+		SALE
+		intel
+		DELL
+		Technologies
+		WORK
+		WITHOUT
+		LIMITS
+		Intel®
+		Хeon®
+		Silver
+		Shop
+		Now
+		XEON
+		Click
+		for
+		legal.
+		processor
+		SILVER
+Ad 2:
+	Labels:
+		Tablet computer
+		Output device
+		Rectangle
+		Communication Device
+		Gadget
+		Font
+		Portable communications device
+		Flat panel display
+		Electric blue
+		Electronic device
+	Text:
+		QUARTERLY
+		BUSINESS
+		SALE
+		intel
+		DELL
+		Intel®
+		WORK
+		WITHOUT
+		LIMITS
+		Shop
+		Now
+		Click
+		for
+		legal.
+		CORE
+		Core
+		TM
+		i7
+		Processor
+		Technologies
+		i7
+Ad 3:
+	Labels:
+		Computer
+		Personal computer
+		Output device
+		Laptop
+		Product
+		Computer keyboard
+		Font
+		Netbook
+		Line
+		Gadget
+	Text:
+		DELLTechnologies
+		QUARTERLY
+		BUSINESS
+		SALE
+		UP
+		TO
+		48%
+		OFF
+		TECH
+		FOR
+		SUCCESS
+		intel.
+		CORE
+		Legal
+		Rollover
+		Intel®
+		Core"
+		i7
+		i7
+		Shop
+		Now
+		processor

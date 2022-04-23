@@ -1,0 +1,144 @@
+Ad 1:
+	Labels:
+		Tire
+		Wheel
+		Vehicle
+		Land vehicle
+		Car
+		Automotive tire
+		Motor vehicle
+		Hood
+		Tread
+		Truck
+	Text:
+		GLE
+		Own
+		a
+		piece
+		of
+		ATLIS
+		>
+		Atlis
+		Motor
+		Vehicles
+Ad 2:
+	Labels:
+		Rectangle
+		Font
+		Automotive exterior
+		Electric blue
+		Signage
+		Auto part
+		Logo
+		Brand
+		Sign
+		Graphics
+	Text:
+		READY
+		FOR
+		A
+		WORRY-FREE
+		INTERNET
+		PROVIDER?
+		ImOn
+		Click
+		here
+		for
+		a
+		FREE
+		INSTALL
+Ad 3:
+	Labels:
+		Purple
+		Font
+		Violet
+		Rectangle
+		Magenta
+		Parallel
+		Screenshot
+		Brand
+		Event
+		Circle
+	Text:
+		*slack
+		Easily
+		see
+		who's
+		available
+		in
+		Slack
+		TRY
+		FOR
+		FREE
+		Click
+		Here
+		For
+		More
+		Information
+		Ad
+		by
+		Sponsor
+		See
+		More
+Ad 4:
+	Labels:
+		Tablet computer
+		Output device
+		Communication Device
+		Rectangle
+		Font
+		Gadget
+		Portable communications device
+		Flat panel display
+		Electric blue
+		Mobile device
+	Text:
+		QUARTERLY
+		BUSINESS
+		SALE
+		intel
+		DELL
+		Intel®
+		Shop
+		Now
+		Click
+		for
+		legal.
+		WORK
+		WITHOUT
+		CORE
+		Core
+		TM
+		17
+		Processor
+		Technologies
+		LIMITS
+		i7
+Ad 5:
+	Labels:
+		Product
+		Font
+		Poster
+		Event
+		Magenta
+		Signage
+		Logo
+		Advertising
+		Sleeve
+		Electric blue
+	Text:
+		Struggling
+		with
+		staff
+		retention?
+		It's
+		about
+		time
+		to
+		end
+		turnover
+		LEARN
+		MORE
+		ModMed
+		MODERNIZING
+		MEDICINE

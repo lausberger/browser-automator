@@ -1,0 +1,131 @@
+Ad 1:
+	Labels:
+		Font
+		Poster
+		Entertainment
+		Magenta
+		Advertising
+		Photo caption
+		Event
+		Happy
+		Performing arts
+		Eyelash
+	Text:
+		max
+		ORIGINAL
+		THE
+		FLIGHT
+		ATTENDANT
+		STREAM
+		THE
+		THRILLING
+		NEW
+		SEASON
+		HBOMAX
+		SIGN
+		UP
+		NOW
+		PLANS
+		START
+		AT
+		$99/MONTH
+Ad 2:
+	Labels:
+		Smile
+		Facial expression
+		Product
+		Happy
+		Font
+		Sharing
+		Entertainment
+		Movie
+		Fun
+		Poster
+	Text:
+		AWKWAFINA
+		IS
+		NORAFROM
+		QUEENS
+		ENJOY
+		NEW
+		STREAMING
+		OPTIONS
+		HBOMAX
+		SIGN
+		UP
+		NOW
+		STARTING
+		AT
+		$9"/MONTH
+Ad 3:
+	Labels:
+		Art
+		Font
+		Military person
+		Visual arts
+		Photo caption
+		Rectangle
+		Fun
+		Room
+		Display device
+		Screenshot
+	Text:
+		ot
+		a
+		traftcke
+		maxORIGINAL
+		ENJOY
+		NEW
+		STREAMING
+		OPTIONS
+		TRAFFICKERS
+		HBOMAX
+		SIGN
+		UP
+		NOVW
+		STARTING
+		AT
+		$9/MONTH
+		IASIDE
+		TEE
+		6OLDEN
+		TEIANGLE
+Ad 4:
+	Labels:
+		Computer
+		Personal computer
+		Netbook
+		Output device
+		Product
+		Laptop
+		Tablet computer
+		Communication Device
+		Mobile device
+		Gadget
+	Text:
+		[D
+		X
+		DELL
+		Technologies
+		QUARTERLY
+		BUSINES
+		S
+		SALE
+		UP
+		TO
+		48%
+		OFF
+		TECH
+		FOR
+		SUCCESS
+		Legal
+		Rollover
+		Shop
+		Now
+		intel.
+		CORE
+		i7
+		Intel®
+		Core"
+		i7
+		processor

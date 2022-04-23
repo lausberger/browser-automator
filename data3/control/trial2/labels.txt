@@ -1,0 +1,126 @@
+Ad 1:
+	Labels:
+		Product
+		Font
+		Line
+		Advertising
+		Electric blue
+		Event
+		Photo caption
+		Poster
+		Brand
+		T-shirt
+	Text:
+		Degrassio
+		THE
+		NEXT
+		GENERATION
+		EW
+		US
+		ENJOY
+		NEW
+		STREAMING
+		OPTIONS
+		HBOMAX
+		GON
+		UP
+		NOW
+		STARTING
+		AT
+		$9"/MONTH
+Ad 2:
+	Labels:
+		Computer
+		Personal computer
+		Laptop
+		Netbook
+		Output device
+		Computer keyboard
+		Touchpad
+		Communication Device
+		Mobile device
+		Font
+	Text:
+		DELL
+		Technologies
+		QUARTERLY
+		BUSINESS
+		SALE
+		UP
+		TO
+		48%
+		OFF
+		TECH
+		FOR
+		SUCCESS
+		Legal
+		Rollover
+		Shop
+		Now
+		intel.
+		CORE
+		i7
+		Intel®
+		Core™
+		i7
+		processor
+Ad 3:
+	Labels:
+		Mouth
+		Eyelash
+		Flash photography
+		Gesture
+		Tints and shades
+		Happy
+		Music artist
+		Hat
+		Event
+		Wrist
+	Text:
+		STREAM
+		THE
+		THRILLING
+		NEW
+		SEASON
+		max
+		ORIGINAL
+		THE
+		FLIGHT
+		ATTENDANT
+		HBOMAX
+		SIGN
+		UP
+		NOW
+		PLANS
+		START
+		AT
+		$99/MONTH
+Ad 4:
+	Labels:
+		Font
+		Movie
+		Helmet
+		Event
+		Action film
+		Fictional character
+		Poster
+		Entertainment
+		Photo caption
+		Billboard
+	Text:
+		HE
+		BATMAN
+		2022
+		WBEI
+		TM&
+		DC
+		HBO
+		NOW
+		STREAMING
+		HBOMAX
+		SIGN
+		UP
+		NOW
+		STARTING
+		AT
+		$9*/MONTH
