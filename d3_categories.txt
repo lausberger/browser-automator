@@ -1,0 +1,26 @@
+Computer/Electronics
+	HP
+	Dell
+Travel/Hotels
+	IHG Army Hotels
+	Vrbo
+Content/Streaming
+	HBO Max
+Automotives
+	Atlis
+Browser Tool/Shopping/Extension
+	Honey
+Credit Card/Finances
+	American Express
+Household/Internet/Networking
+	ImOn
+Cellular/Networking/Data
+	Google Fi
+Home Security/Electronics
+	SimpliSafe
+Mac/Software/Security
+	Mackeeper
+Cloud/Business/Healthcare
+	ModMed
+Communication/Business/Software
+	Slack

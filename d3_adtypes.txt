@@ -1,0 +1,78 @@
+HP
+	Electronics
+	Windows 10
+	Computer
+HBO Max (The Batman)
+	Media
+	Streaming Service
+	Action 
+	Household
+Dell Technologies
+	Electronics
+	Computer (Laptop)
+	Processor
+IHG Army Hotels
+	Hotel	
+	Army
+	Comfort
+	Travel
+SimpliSafe
+	Home Security
+	Electronics
+	IoT device
+	Safety/Comfort
+Mackeeper
+	Software
+	Security
+	PC cleaning
+	Mac
+Google Fi
+	Cellular Plan
+	Electronics
+	Network
+	Data
+	Connectivity
+Honey
+	Coupons
+	Shopping
+	Software (Browser Extension)
+	Video Games
+	Giveaway	
+American Express
+	Banking
+	Finances
+	Credit Card
+ModMed
+	Software
+	Cloud
+	Medicine
+	Healthcare
+	Business
+	Staff Onboarding
+ImOn
+	Internet
+    	Networking
+    	Household
+	Convenient
+	Iowa City
+Atlis
+	Cars
+	Electric Vehicles
+	Trucks
+	Off-Road
+	Heavy-Duty
+Slack
+	Communication
+	Networking
+	Software
+	Business
+	Ease 
+	Internet
+Vrbo
+	Vacation
+	Travel
+	Rental
+	Comfort
+
+	
+	
