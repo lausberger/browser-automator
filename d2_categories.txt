@@ -1,0 +1,36 @@
+Business Product/Networking/Security/IT
+    Egnyte
+    Celona
+    SW2022
+    Okta
+    Axonius
+
+Business Product/Marketing/Workflow/Communication
+    Yealink
+    LinkedIn
+    Nutshell CRM
+
+Retail/Online Shopping
+    RetailMeNot
+
+Automotives
+    Mitsubishi Motors
+
+Content/Streaming
+    HBO MAX
+    DigitalContent
+
+Internet/Networking/Household
+    ImOn
+
+Electronics/Mac/Computers
+    MacKeeper
+
+Browser Tools/Internet/Extensions
+    Edge Shortcuts
+
+Personal Finance/Loans/Credit
+    LendingTree
+
+Travel/Hotels
+    Four Seasons
