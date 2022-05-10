@@ -31,6 +31,7 @@ def getOptions(expType):
 
     #options.disable_encoding = True 
     '''
+    # These are disabled because they trigger bot detection on test set websites
     options.add_argument("--headless")
     options.add_argument('--no-sandbox')         
     options.add_argument("window-size=1920,1080")
@@ -128,8 +129,6 @@ def runExperiment(siteList, numTrials, expType):
     except:
         print('directory ' + DIR_NAME + expType + ' already exists')
     trialNo = 1
-    if expType == 'user-agent':
-        trialNo += 9
     while trialNo <= numTrials:
         driver = webdriver.Chrome(options=options)
         driver.set_page_load_timeout(120)
@@ -145,10 +144,14 @@ def runExperiment(siteList, numTrials, expType):
         driver.set_window_size(1440, 1440)
         driver.get(MEASUREMENT_SITE)
         time.sleep(60)
-        #S = lambda X: driver.execute_script('return document.body.parentNode.scroll'+X)
-        #driver.set_window_size(S('Width'),S('Height')) # May need manual adjustment
-        driver.find_element(by=By.TAG_NAME, value='body').screenshot(DIR_NAME + expType + '/trial' + str(trialNo) + '.png')
+        '''
+        # These will not work without Chromium operating in 'headless' mode
+        S = lambda X: driver.execute_script('return document.body.parentNode.scroll'+X)
+        driver.set_window_size(S('Width'),S('Height')) # May need manual adjustment
+        '''
+        # this is not consistent enough to warrant its use
         #parseRequestsAndSaveAds(expType, driver.requests, trialNo)
+        driver.find_element(by=By.TAG_NAME, value='body').screenshot(DIR_NAME + expType + '/trial' + str(trialNo) + '.png')
         driver.close()
         trialNo += 1
 
