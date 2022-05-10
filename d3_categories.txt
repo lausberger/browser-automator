@@ -20,7 +20,6 @@ Home Security/Electronics
 	SimpliSafe
 Mac/Software/Security
 	Mackeeper
-Cloud/Business/Healthcare
+Business Product/Communication/Workflow
 	ModMed
-Communication/Business/Software
 	Slack
